@@ -2691,7 +2691,7 @@ local function ShootLoop()
     end
 end
 
-Library = loadstring(game:HttpGet("https://pastefy.app/vgSGtrbP/raw"))()
+Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/PhuocHub/Banana/refs/heads/main/Banana.lua"))()
 
 Window = Library:CreateWindow({
     Title = "Phuoc Hub",
